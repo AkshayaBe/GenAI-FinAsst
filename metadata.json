@@ -1,0 +1,5 @@
+{
+  "name": "GenAI Financial Assistant",
+  "description": "A GenAI-powered financial assistant for novice investors in India, providing simple answers to investment questions and helping discover investment products. This tool aims to improve financial literacy and empower users to make better-informed decisions.",
+  "requestFramePermissions": []
+}
